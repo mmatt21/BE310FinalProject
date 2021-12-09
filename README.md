@@ -21,7 +21,7 @@ At this point I was left with two separte tidy dataframes that needed to be merg
   Used a left join to match the population data with the crop production data, excluding non-matches 
   Cleaned this data further by removing global statistics, retaining only country specific data
 Plots were done using ggplot point functions 
-Additional file is my r script used to tidy data and create the plots
+Additional files are my r script used to tidy data and create the plots as well as my tidied data set
 
 
 
