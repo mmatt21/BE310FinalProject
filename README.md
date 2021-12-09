@@ -20,8 +20,8 @@ Next I cleaned the crop yield data
 At this point I was left with two separte tidy dataframes that needed to be merged. 
   Used a left join to match the population data with the crop production data, excluding non-matches 
   Cleaned this data further by removing global statistics, retaining only country specific data
-Plots were done using ggplot point and line functions 
-Additional files in the GIT are my final cleaned dataframe as well as my r script used to tidy and data and create the plots
+Plots were done using ggplot point functions 
+Additional file is my r script used to tidy data and create the plots
 
 
 
